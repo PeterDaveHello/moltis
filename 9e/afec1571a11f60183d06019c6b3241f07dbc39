@@ -1,0 +1,18 @@
+crates/chat/src/service/chat_impl.rs
+  h_91c03fe45fa613 165-171
+crates/chat/src/service/chat_impl/send.rs
+  h_91c03fe45fa613 1422-1425
+crates/chat/tests/channel_reply_retirement.rs
+  h_91c03fe45fa613 1-533
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9eafec1571a11f60183d06019c6b3241f07dbc39",
+  "prompts": {},
+  "humans": {
+    "h_91c03fe45fa613": {
+      "author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
